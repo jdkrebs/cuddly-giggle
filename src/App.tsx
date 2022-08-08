@@ -2,6 +2,8 @@ import React from 'react';
 import logo from './logo.svg';
 import './App.css';
 
+//Call the endpoint you created in api/index.ts to render a list of pokemon
+
 function App() {
   return (
     <div className="App">
